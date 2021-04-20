@@ -2,4 +2,4 @@
 
 Link to the Questions
 
-https://www.hackerearth.com/challenges/competitive/january-circuits-21/problems/
+[Probelms](https://www.hackerearth.com/challenges/competitive/january-circuits-21/problems/)
